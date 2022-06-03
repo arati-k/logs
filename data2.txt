@@ -1,7 +1,7 @@
 a
-b
-c
-d
+binary
+cat
+demo
 patch-1
 elephant
 fish
