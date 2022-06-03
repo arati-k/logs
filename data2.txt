@@ -9,11 +9,11 @@ goat
 
 e
 f
-g
+grafana
 h
 i
-j
-k
+jenkins
+kubernetes
 
 main
  main
