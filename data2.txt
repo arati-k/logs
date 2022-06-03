@@ -2,6 +2,11 @@ a
 b
 c
 d
+patch-1
+elephant
+fish
+goat
+
 e
 f
 g
@@ -11,3 +16,4 @@ j
 k
 
 main
+ main
