@@ -7,7 +7,6 @@ f
 g
 h
 i
- patch-1
 j
 k
 
